@@ -1,3 +1,4 @@
+OpenClassrooms International Frontend Path project challenge, to prove a high level of Javascript proficiency.
 An online game written with JavaScript in which 2 players play each turn to compete. 
 For each turn, a player can move from one to three boxes (horizontally or vertically) before ending their turn. They obviously can not pass through obstacles directly.
 
